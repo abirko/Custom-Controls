@@ -1,0 +1,12 @@
+C:\Users\Utilisateur\source\repos\CustomControls\CustomControls\CustomControls\bin\Debug\netstandard2.0\CustomControls.deps.json
+C:\Users\Utilisateur\source\repos\CustomControls\CustomControls\CustomControls\bin\Debug\netstandard2.0\CustomControls.dll
+C:\Users\Utilisateur\source\repos\CustomControls\CustomControls\CustomControls\bin\Debug\netstandard2.0\CustomControls.pdb
+C:\Users\Utilisateur\source\repos\CustomControls\CustomControls\CustomControls\obj\Debug\netstandard2.0\CustomControls.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\CustomControls\CustomControls\CustomControls\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Utilisateur\source\repos\CustomControls\CustomControls\CustomControls\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Utilisateur\source\repos\CustomControls\CustomControls\CustomControls\obj\Debug\netstandard2.0\CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\CustomControls\CustomControls\CustomControls\obj\Debug\netstandard2.0\CustomControls.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\CustomControls\CustomControls\CustomControls\obj\Debug\netstandard2.0\CustomControls.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\CustomControls\CustomControls\CustomControls\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Utilisateur\source\repos\CustomControls\CustomControls\CustomControls\obj\Debug\netstandard2.0\CustomControls.dll
+C:\Users\Utilisateur\source\repos\CustomControls\CustomControls\CustomControls\obj\Debug\netstandard2.0\CustomControls.pdb
